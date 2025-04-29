@@ -1,12 +1,1 @@
-import CanvasActividades from "./componentes/CanvasActividades";
-
-function App() {
-  return (
-    <div className="p-6 font-sans">
-      <h1 className="text-2xl font-bold mb-4">Canvas de Actividades Docentes</h1>
-      <CanvasActividades />
-    </div>
-  );
-}
-
-export default App;
+body { font-family: sans-serif; margin: 0; padding: 1rem; background: #f9f9f9; }
