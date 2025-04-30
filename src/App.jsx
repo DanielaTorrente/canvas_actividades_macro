@@ -1,1 +1,7 @@
-body { font-family: sans-serif; margin: 0; padding: 1rem; background: #f9f9f9; }
+function App() {
+  return (
+    <div>
+      <h1>Hola, Daniela</h1>
+    </div>
+  );
+}
